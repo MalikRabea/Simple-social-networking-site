@@ -1,7 +1,8 @@
-🔹 Title: Mini Social Media UI
+
+🔹 Title: Full Stack Social Media UI (Frontend)
 
 📄 Description:
-A front-end prototype of a social media platform built using Vanilla JavaScript, HTML5, and Bootstrap 5. The app simulates core social media interactions like posts, likes, and user cards with a responsive and modern UI layout.
+A responsive social media interface built using HTML, CSS, JavaScript, and Bootstrap, connected to a ready-made Laravel RESTful API. The app allows users to view dynamic post feeds and interact with simulated social media features.
 
 🚀 Live Demo:
 https://hilarious-froyo-f0cf0d.netlify.app
@@ -9,20 +10,26 @@ https://hilarious-froyo-f0cf0d.netlify.app
 🧰 Technologies Used:
 HTML5, CSS3
 
-JavaScript (DOM Manipulation)
+JavaScript (Vanilla)
 
-Bootstrap 5 (for layout and responsiveness)
+Bootstrap 5
 
-Netlify (for hosting)
+Laravel REST API (external)
+
+Netlify (hosting)
 
 📸 Features:
-Social media post cards
+Dynamic post rendering via API
 
-Like button functionality
+Like buttons and user cards
 
-Responsive layout for all screen sizes
+Fully responsive layout
 
-Clean and modern UI design
+Integration with external back-end
+
+
+Back-end API was developed using Laravel and provided externally. I focused on building the complete responsive front-end and API integration.
+
 
 
 
